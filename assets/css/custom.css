@@ -1,0 +1,22 @@
+/**
+ * CUSTOM CSS
+ *
+ * Here you can add your custom CSS code.
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.t-title__first-word {
+  text-transform: none;
+  font-weight: 300;
+}
+
+.t-title__second-word {
+  text-transform: none;
+  font-weight: 700;
+}
+
+.title__phd {
+  font-size: .5em;
+  font-weight: 200;
+}
