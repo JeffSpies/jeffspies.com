@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jeffspies
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jeffspies.com
+  * I am jeffspies (https://keybase.io/jeffspies) on keybase.
+  * I have a public key ASAq8KZwogkjU9_SRX6M628qRj9N78gfhJIedh9ekGGAIwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202af0a670a2092353dfd2457e8ceb6f2a463f4defc81f84921e761f5e906180230a",
+      "host": "keybase.io",
+      "kid": "01202af0a670a2092353dfd2457e8ceb6f2a463f4defc81f84921e761f5e906180230a",
+      "uid": "a93bcf9927e016cfd8274a84256c8819",
+      "username": "jeffspies"
+    },
+    "merkle_root": {
+      "ctime": 1506352693,
+      "hash": "f1e06844768ec5889e606d97a8a62ff4bb58ccd287f5ccc870e94718a44ebac39fa11d06a199418a26d24f4b92488b4e5ec652b0116e20bf8d28026347ef6845",
+      "hash_meta": "a83c365ea0fe129dd912278f872dd66eadb8accfc5808dbfd07d62cc978e7608",
+      "seqno": 1454686
+    },
+    "service": {
+      "hostname": "jeffspies.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1506352751,
+  "expire_in": 504576000,
+  "prev": "32c4a8f890bcc879ac0fc5425377a1530d0efc1a95ee3ac716abe82558b79320",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKvCmcKIJI1Pf0kV+jOtvKkY/Te/IH4SSHnYfXpBhgCMKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmFmMGE2NzBhMjA5MjM1M2RmZDI0NTdlOGNlYjZmMmE0NjNmNGRlZmM4MWY4NDkyMWU3NjFmNWU5MDYxODAyMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmFmMGE2NzBhMjA5MjM1M2RmZDI0NTdlOGNlYjZmMmE0NjNmNGRlZmM4MWY4NDkyMWU3NjFmNWU5MDYxODAyMzBhIiwidWlkIjoiYTkzYmNmOTkyN2UwMTZjZmQ4Mjc0YTg0MjU2Yzg4MTkiLCJ1c2VybmFtZSI6ImplZmZzcGllcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNjM1MjY5MywiaGFzaCI6ImYxZTA2ODQ0NzY4ZWM1ODg5ZTYwNmQ5N2E4YTYyZmY0YmI1OGNjZDI4N2Y1Y2NjODcwZTk0NzE4YTQ0ZWJhYzM5ZmExMWQwNmExOTk0MThhMjZkMjRmNGI5MjQ4OGI0ZTVlYzY1MmIwMTE2ZTIwYmY4ZDI4MDI2MzQ3ZWY2ODQ1IiwiaGFzaF9tZXRhIjoiYTgzYzM2NWVhMGZlMTI5ZGQ5MTIyNzhmODcyZGQ2NmVhZGI4YWNjZmM1ODA4ZGJmZDA3ZDYyY2M5NzhlNzYwOCIsInNlcW5vIjoxNDU0Njg2fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImplZmZzcGllcy5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMSJ9LCJjdGltZSI6MTUwNjM1Mjc1MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzMmM0YThmODkwYmNjODc5YWMwZmM1NDI1Mzc3YTE1MzBkMGVmYzFhOTVlZTNhYzcxNmFiZTgyNTU4Yjc5MzIwIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RApMTm87RqL0KjYPWHgjsV+JmsiBt+/f3iuTR4kA4OH8bOIB9bQOkburZobISvz7C9YnCcR9q/UKT6ZR7/U24DBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ9AjkwkF6Nu1HkUf/qnv9IvSDalzXrHK0Rg2jA4FT8Ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeffspies
+
+==================================================================
